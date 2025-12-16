@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アンダー・ザ・ブリッジ",
+  "base_artist": "レッド・ホット・チリ・ペッパーズ",
+  "createdAt": "2025-12-16T05:53:15.532708Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Under The Bridge",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": false,
+      "path": "select/pl_01_Under_The_Bridge_Red_Hot_Chili_Peppers.txt"
+    }
+  ]
+}
